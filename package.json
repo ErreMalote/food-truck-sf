@@ -1,0 +1,17 @@
+{
+    "name": "redfin-challenge",
+    "version": "1.0.0",
+    "description": "Challege from Redfin to get a list of food trucks open at the time of calling the api.",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "test": "test"
+    },
+    "author": "Reynaldo Gonzalez",
+    "license": "ISC",
+    "dependencies": {
+        "clear": "^0.1.0",
+        "inquirer": "^6.5.0",
+        "request": "^2.88.0"
+    }
+}
